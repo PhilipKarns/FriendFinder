@@ -1,7 +1,7 @@
 //linking route to friends data source that hold all of
 //the data for all potential friends
 
-var friendsData = require("../data/friends.js");
+var friendsData = require("../data/friends");
 
 //setting up routes
 module.exports = function(app) {
